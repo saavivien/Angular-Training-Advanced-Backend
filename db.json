@@ -5,7 +5,6 @@
       "userId": 499,
       "title": "You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?",
       "createdDate": "2020-08-17T12:56:35Z",
-      "imageUrl": "undefined",
       "content": "I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. Saving the world with meals on wheels. Did I mention we have comfy chairs? I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself.",
       "comments": [
         {
@@ -117,13 +116,85 @@
       "userId": 15,
       "title": "You hit me with a cricket bat",
       "createdDate": "2020-07-28T14:30:56Z",
-      "imageUrl": "undefined",
       "content": "The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.\n\nAw, you're all Mr. Grumpy Face today. You hit me with a cricket bat. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. You hate me; you want to kill me! Well, go on! Kill me! KILL ME!\n\nIt's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! No… It's a thing; it's like a plan, but with more greatness. Stop talking, brain thinking. Hush. Saving the world with meals on wheels.",
       "comments": []
     }
   ],
-  "users": [],
-  "employees": [
+  "users": [
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexander"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test.com",
+        "confirm": "test@test.com"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 1
+    },
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexander"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test.com",
+        "confirm": "test@test.com"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 2
+    },
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexadner"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "tes@tes",
+        "confirm": "tes@tes"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 3
+    },
+    {
+      "personalInfo": {
+        "firstName": "tasdg",
+        "lastName": "dfgsqdf"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test",
+        "confirm": "test@test"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "moihds",
+        "password": "moihsdg",
+        "confirmPassword": "moihsdgf"
+      },
+      "id": 4
+    }
+  ],
+  "candidates": [
     {
       "id": 1,
       "firstName": "Darla",
