@@ -120,8 +120,81 @@
       "comments": []
     }
   ],
-  "users": [],
-  "employees": [
+  "users": [
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexander"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test.com",
+        "confirm": "test@test.com"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 1
+    },
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexander"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test.com",
+        "confirm": "test@test.com"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 2
+    },
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexadner"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "tes@tes",
+        "confirm": "tes@tes"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 3
+    },
+    {
+      "personalInfo": {
+        "firstName": "tasdg",
+        "lastName": "dfgsqdf"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test",
+        "confirm": "test@test"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "moihds",
+        "password": "moihsdg",
+        "confirmPassword": "moihsdgf"
+      },
+      "id": 4
+    }
+  ],
+  "candidates": [
     {
       "id": 1,
       "firstName": "Darla",
